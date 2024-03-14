@@ -53,3 +53,5 @@ The DataFrame contains information about words, including their character count 
 
 You can view the detailed analysis and code in the `P_Words.ipynb` Jupyter Notebook provided in this repository. The notebook contains step-by-step analysis, code explanations, and results for each of the tasks mentioned above.
 
+## Data Source
+The words used in this project was sourced from [dolph/dictionary](https://github.com/dolph/dictionary).
